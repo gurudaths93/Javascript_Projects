@@ -1,0 +1,20 @@
+{ "questions":[
+    { "id":"Q-101",
+    "title":"What is India's Capital",
+    "type":"radiogroup",
+    "options":["Delhi","Mumbai","Kolkatta","Pune"]
+    },
+    {
+    "id":"Q-103",
+    "title":"Entomology is the science that studies",
+    "type":"dropdown",
+    "options":["Behavior of human beings","Insects","The origin and history of technical and scientific terms","The formation of rocks"]
+    },
+    {
+        "id":"Q-104",
+        "title":"I love",
+        "type":"radiogroup",
+        "options":["Computer","Nature","Books","All of the above"]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+.button_prev
+{
+	background-color: red;
+	color: white;
+	width: 150px;
+	height: 40px;
+}
+
+.button_next
+{
+    display: inline-block;
+	background-color:grey;
+	color: white;
+	width: 150px;
+	height: 40px;
+}
+
+.submit{
+	display: none;
+	background-color:green;
+	color: white;
+	width: 150px;
+	height: 40px;
+	margin: 30px;
+}
+.question_style{
+	border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px #888888;
+}
